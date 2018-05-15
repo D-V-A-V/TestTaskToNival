@@ -1,0 +1,7 @@
+H:\repos\TestTask\TestTask\bin\Debug\TestTask.exe.config
+H:\repos\TestTask\TestTask\bin\Debug\TestTask.exe
+H:\repos\TestTask\TestTask\bin\Debug\TestTask.pdb
+H:\repos\TestTask\TestTask\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+H:\repos\TestTask\TestTask\obj\Debug\TestTask.exe
+H:\repos\TestTask\TestTask\obj\Debug\TestTask.pdb
+H:\repos\TestTask\TestTask\obj\Debug\TestTask.csprojResolveAssemblyReference.cache
